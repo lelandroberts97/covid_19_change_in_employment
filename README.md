@@ -1,12 +1,12 @@
 # Applied Plotting, Charting, and Data Representation in Python
-I enrolled in this course to learn more about the principals of data visualization and how to use MatPlotLib in Python to create effective data visualizations. Data isn;t something you throw around. It is an art form to be able to take raw data and transform it into useful information. This is one of the beauties of data though -- it can be an impressive medium for communication. I love using data to tell a story, and to do that, I am learning different ways to create effective data visualizations. 
+I enrolled in this course to learn more about the principals of data visualization and how to use MatPlotLib in Python to create effective data visualizations. Data isn't something you throw around. It is an art form to be able to take raw data and transform it into useful information. This is one of the beauties of data though: it can be an impressive medium for communication. I love using data to tell a story, and to do that, I am learning different ways to create effective data visualizations. 
 
-On top of learning how to use MatPlotLib's scripting layer to create data visualizations, we also looked at two texts, *The Truthful Art* by Alber Cairo and *The Visual Display of Quantitative Information* by Edward Tufte to examine some important principals to keep in mind when creating a visualization. It is so easy to fool ourselves, and as the creator of the visual, we have to make sure to stay true to the raw data and stray away fron our own biases. All f the principals discussed were applied to each visualization, and I will explain some of Cairo's ideas in the report for the final project.
+On top of learning how to use MatPlotLib's scripting layer to create data visualizations, we also looked at two texts in this course, *The Truthful Art* by Alber Cairo and *The Visual Display of Quantitative Information* by Edward Tufte, to examine some important principals to keep in mind when creating visualizations. It is so easy to fool ourselves, and as the creator of the visual, we have to make sure to stay true to the raw data and stray away fron our own biases. All of the principals discussed were applied to each visualization, and I will explain some of Cairo's ideas as it applies to my final project.
 
 ## Notebooks
-1. Visualization 1: 
-2. Visualization 2: 
-3. Final Project: 
+1. [Visualization 1:] (https://github.com/lelandroberts97/covid_19_change_in_employment/blob/master/Assignment2.ipynb)
+2. [Visualization 2:] (https://github.com/lelandroberts97/covid_19_change_in_employment/blob/master/Assignment3.ipynb)
+3. [Final Project:] (https://github.com/lelandroberts97/covid_19_change_in_employment/blob/master/Change%20in%20Employment%20March%202020.ipynb)
 
 ## Report for Final Project
 
@@ -26,6 +26,8 @@ The data that I chose to use came from the Federal Reserve Economic Data (FRED).
 - https://fred.stlouisfed.org/series/ANNA426LEIH
 
 ### Visualization
+
+![](./images/final_project_viz.png)
 
 ### Conclusion
 
